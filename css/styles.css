@@ -18,7 +18,7 @@ body {
 #header h1 {
   position: absolute;
   left: 420px;
-  top:5px;
+  top:5px; 
   font-size: 3em;
   font-family: 'Devonshire', cursive;
   color: #E35335;
